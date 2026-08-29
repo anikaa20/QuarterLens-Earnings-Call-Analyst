@@ -1,7 +1,7 @@
 import streamlit as st
 from backend_functions import get_preset_questions, get_transcripts, process_transcripts, get_answers, check_management_consistency, rerank_documents, ranking_model
 
-st.set_page_config(page_title="QuarterLens", page_icon='finragify.png', layout="wide")
+st.set_page_config(page_title="QuarterLens", page_icon='QuarterLens.png', layout="wide")
 
 # Plain-text introduction to the app 
 st.markdown(

@@ -1,8 +1,8 @@
 # QuarterLens: Earnings Call Analyst 📈
 
-*An LLM-powered research tool that uses RAG (Retrieval-Augmented Generation) to answer natural-language questions about a company's earnings call history, built entirely on free-tier infrastructure (Groq, Alpha Vantage, and open-source Hugging Face models).*
+An LLM-powered research tool that uses RAG (Retrieval-Augmented Generation) to answer natural-language questions about a company's earnings call history, built entirely on free-tier infrastructure (Groq, Alpha Vantage, and open-source Hugging Face models).
+<p align="center"> <img width="800" src="rag-demo.gif"> </p>
 
-<p align="center"> <img width="800" src="images/quarterlens_UI.gif"> </p>
 
 ## Overview
 
